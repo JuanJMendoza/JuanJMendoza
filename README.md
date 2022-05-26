@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🐝 I’m currently working at SAP Labs
+- 🐝 I’m currently working at Block F.K.A Square
 - 🐥 Twitter: @TheJuanJMendoza
 - 😄 Pronouns: He/Him/His
 <!--
