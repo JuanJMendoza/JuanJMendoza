@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Juan 🙋🏻‍♂️
 ```javascript
 const Juan = {
   pronouns: "He" | "Him",
