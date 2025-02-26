@@ -1,7 +1,13 @@
 ### Hi there 👋
-- 🐝 I’m currently working at Block F.K.A Square
-- 🐥 Twitter: @TheJuanJMendoza
-- 😄 Pronouns: He/Him/His
+```javascript
+const Juan = {
+  pronouns: "He" | "Him",
+  title: "Software Engineer",
+  code: [JavaScript, TypeScript, Python],
+  frameworks: [React, React Native, Expo, Node],
+  hobbies: [WeightLifting, Handball, Hiking, Traveling, Frequently Learning New Things]
+}
+```
 <!--
 **JuanJMendoza/JuanJMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
